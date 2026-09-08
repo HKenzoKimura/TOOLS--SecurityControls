@@ -4,6 +4,8 @@
 >
 > ⚠️ *Não altera nenhuma configuração do sistema. Requer execução como Administrador para resultados completos (vários checks dependem de WMI/registro elevado).*
 
+## `Developed by: HKK`
+
 ---
 
 ## `$ cat ./objective.txt`
